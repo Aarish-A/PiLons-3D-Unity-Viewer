@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: b4174f0bd200f1245870e7ab3c078acf
+timeCreated: 1524499375
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cone Intake & Swing Arm
+    100004: Lift
+    100006: Mogo Intake & Drive Base
+    400000: //RootNode
+    400002: Cone Intake & Swing Arm
+    400004: Lift
+    400006: Mogo Intake & Drive Base
+    2100000: 0,0,0.002
+    2100002: 191,191,191.002
+    2100004: 244,244,244.002
+    2100006: 46,138,87.002
+    2100008: 192,192,192_1
+    2100010: B595EB1C2E3A5AA4D731A676BE277184D16BA8C0.002
+    2100012: 255,220,64.002
+    2100014: 192,192,192_2
+    2100016: 244,244,244_1
+    2100018: 236,241,239.001
+    2100020: 33,138,33.001
+    2100022: 244,244,244.001
+    2100024: 128,128,128
+    2100026: 46,138,87.001
+    2100028: 0,0,0.001
+    2100030: B595EB1C2E3A5AA4D731A676BE277184D16BA8C0.001
+    2100032: 192,192,192.001
+    2100034: 191,191,191.001
+    2100036: 192,192,192_3
+    2100038: 255,220,64.001
+    2100040: 33,138,33_1
+    2100042: 105,105,105_1
+    2100044: 244,244,244_2
+    2100046: 105,105,105
+    2100048: 64,64,64
+    2100050: 0,0,0_1
+    2100052: 2AC566C0BDF79BFE1036002B0A7F5B4403A23949
+    2100054: 46,138,87
+    2100056: 244,244,244
+    2100058: 191,191,191
+    2100060: 0,0,0
+    2100062: 33,138,33
+    2100064: B595EB1C2E3A5AA4D731A676BE277184D16BA8C0
+    2100066: 204,204,204
+    2100068: 192,192,192
+    2100070: 255,220,64
+    2100072: 236,241,239
+    2300000: Cone Intake & Swing Arm
+    2300002: Lift
+    2300004: Mogo Intake & Drive Base
+    3300000: Cone Intake & Swing Arm
+    3300002: Lift
+    3300004: Mogo Intake & Drive Base
+    4300000: Lift
+    4300002: Mogo Intake & Drive Base
+    4300004: Cone Intake & Swing Arm
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
